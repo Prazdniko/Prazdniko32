@@ -1,6 +1,7 @@
 #Решение задачи номер 3
 
 from csv import reader
+
 group_data = 0
 with open('space.txt', encoding='utf-8') as data_file:
     class ShipName:
